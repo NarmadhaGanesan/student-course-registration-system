@@ -125,7 +125,8 @@ student-course-registration/
 ## 📸 Architecture Diagram
 
 ![Architecture Diagram](architecture_diagram.png)
-_Illustrates the data flow between frontend, backend, and database._
+
+Illustrates the data flow between frontend, backend, and database._
 
 ---
 
